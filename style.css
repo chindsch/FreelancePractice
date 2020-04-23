@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+}
+
+.content {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  height: 30px;
+  width: 100%;
+  color: black;
+  background-color: white;
+  text-align: center;
+}
+
+.form {
+  margin-top: 10px;
+  text-align: center;
+  position: inherit;
+  height: 100px;
+  width: 100%;
+  color: white;
+  background-color: black;
+}
+
+.footer {
+  height: 30px;
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+}
